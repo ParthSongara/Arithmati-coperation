@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">arithmatic operation</string>
+    <string name="arithmatic_operations">Arithmatic Operations</string>
+    <string name="enter_number">Enter number</string>
+</resources>
